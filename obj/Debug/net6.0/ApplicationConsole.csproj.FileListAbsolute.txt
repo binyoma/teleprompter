@@ -1,0 +1,15 @@
+D:\c#\ApplicationConsole\bin\Debug\net6.0\ApplicationConsole.exe
+D:\c#\ApplicationConsole\bin\Debug\net6.0\ApplicationConsole.deps.json
+D:\c#\ApplicationConsole\bin\Debug\net6.0\ApplicationConsole.runtimeconfig.json
+D:\c#\ApplicationConsole\bin\Debug\net6.0\ApplicationConsole.dll
+D:\c#\ApplicationConsole\bin\Debug\net6.0\ApplicationConsole.pdb
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ApplicationConsole.csproj.AssemblyReference.cache
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ApplicationConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ApplicationConsole.AssemblyInfoInputs.cache
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ApplicationConsole.AssemblyInfo.cs
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ApplicationConsole.csproj.CoreCompileInputs.cache
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ApplicationConsole.dll
+D:\c#\ApplicationConsole\obj\Debug\net6.0\refint\ApplicationConsole.dll
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ApplicationConsole.pdb
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ApplicationConsole.genruntimeconfig.cache
+D:\c#\ApplicationConsole\obj\Debug\net6.0\ref\ApplicationConsole.dll
